@@ -16,6 +16,7 @@
 3. JavaScript
 
 ## Code Example
+*to be added...*
 
 ## Courses
 
